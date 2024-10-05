@@ -5,7 +5,6 @@ import {
   UserOutlined,
   ProjectOutlined,
   SolutionOutlined,
-  MailOutlined,
 } from "@ant-design/icons";
 import {
   FaCodepen,
@@ -14,7 +13,6 @@ import {
   FaLinkedin,
   FaEnvelope,
   FaPhoneAlt,
-  FaFilePdf,
   FaRegFileAlt,
 } from "react-icons/fa";
 

@@ -1,4 +1,3 @@
-// data/projectData.js
 const projectData = [
   {
     title: 'Resort Booking App',
