@@ -103,7 +103,7 @@ const Navbar = ({ currentTab, setCurrentTab }) => {
           </SocialLink>
           {/* Resume Link */}
           <SocialLink
-            href="/sudipta_resume.pdf"
+            href="/Sudipta_Adhikary_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
